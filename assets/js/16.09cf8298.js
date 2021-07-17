@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{637:function(e,t,n){"use strict";n.r(t);var s={},i=n(2),r=Object(i.a)(s,(function(){var e=this.$createElement;this._self._c;return this._m(0)}),[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h1",[this._v("This is  Home Page")])])}],!1,null,"6b659d88",null);t.default=r.exports}}]);
