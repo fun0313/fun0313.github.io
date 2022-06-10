@@ -1,0 +1,1 @@
+const e={key:"v-ba323152",path:"/docs/basic/uml/",title:"UML",lang:"en-US",frontmatter:{title:"UML",date:"2022-06-06 21:42:00",categories:["\u8BBE\u8BA1"],tags:["UML"]},excerpt:"",headers:[],git:{createdTime:1654862268e3,updatedTime:1654862268e3,contributors:[{name:"fun0313",email:"295060986@qq.com",commits:1}]},filePathRelative:"docs/basic/uml/README.md"};export{e as data};
