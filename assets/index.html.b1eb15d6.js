@@ -1,1 +1,0 @@
-const a={key:"v-80e3db86",path:"/docs/application/canvas/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1654607592e3,updatedTime:1654607592e3,contributors:[{name:"fun0313",email:"295060986@qq.com",commits:1}]},filePathRelative:"docs/application/canvas/README.md"};export{a as data};
