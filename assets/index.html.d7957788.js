@@ -1,1 +1,0 @@
-const e={key:"v-6fe8535e",path:"/docs/embedded/arduino/",title:"Arduino",lang:"en-US",frontmatter:{title:"Arduino",categories:["arduino"],tags:["\u5E8F"]},excerpt:"",headers:[],git:{createdTime:1654862268e3,updatedTime:1654862268e3,contributors:[{name:"fun0313",email:"295060986@qq.com",commits:1}]},filePathRelative:"docs/embedded/arduino/README.md"};export{e as data};
