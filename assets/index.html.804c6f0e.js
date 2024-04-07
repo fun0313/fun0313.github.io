@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as _,b as c}from"./app.d08d2886.js";const n={},o=c("p",null,"\u58F0\u4E50\u5927\u5E08 \u63D0\u4F9B\u4E86web\u3001\u5C0F\u7A0B\u5E8F \u7AEF\u7B49\u5404\u79CD\u4E50\u5668\uFF0C\u4E50\u7406\u7B49\u529F\u80FD",-1),s=[o];function r(a,l){return t(),_("div",null,s)}var i=e(n,[["render",r],["__file","index.html.vue"]]);export{i as default};
